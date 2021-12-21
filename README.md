@@ -52,6 +52,6 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ### 3. Video Demo Lab
 _(Hanya untuk peserta kelas AWS CPE lama, karena materi baru AWS CPE tidak tersedia Lab)_
-- [AWS Cloud Practitioner](http://bit.ly/cpelabs)
+- [AWS Cloud Practitioner Essentials](http://bit.ly/cpelabs)
 
     > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu.
