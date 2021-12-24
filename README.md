@@ -37,7 +37,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 - [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
 
     > Cara mendapatkan simulasi ujian gratis via PSI Online untuk mengenali format pertanyaan ujian Cloud Practitioner nanti. Untuk mencoba syaratnya *harus lulus minimal satu ujian AWS* apapun.
----
+
 ## Hands-on Labs
 ### 1. Free Labs
 - [Amazon Qwiklabs](https://amazon.qwiklabs.com/catalog?price%5B%5D=free)
