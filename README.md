@@ -30,9 +30,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
     > Beberapa contoh soal untuk mengenali format pertanyaan ujian Cloud Practitioner nanti.
 
-- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/internal/view/elearning/9153/aws-certification-official-practice-question-sets-english)
+- [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
 
-    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Cloud Practitioner nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Associate nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
 
 - [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
 
