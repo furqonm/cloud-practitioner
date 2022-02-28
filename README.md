@@ -27,8 +27,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > E-learning untuk latihan persiapan ujian Cloud Practitioner dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian.
 
 - [AWS Certified Cloud Practitioner Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
+- [Qubits42 Test Learn](https://www.koenig-solutions.com/aws) **(Unofficial)**
 
-    > Beberapa contoh soal untuk mengenali format pertanyaan ujian Cloud Practitioner nanti.
+    > Beberapa contoh soal untuk mempersiapkan ujian Cloud Practitioner.
 
 - [AWS Certification Official Practice Question Sets (English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
 
