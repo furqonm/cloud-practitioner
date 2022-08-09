@@ -20,17 +20,13 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
     > E-learning untuk latihan persiapan ujian Cloud Practitioner dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian.
 
 - [AWS Certified Cloud Practitioner (CLF-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
-- [Qubits42 Test Learn: AWS Certified Cloud Practitioner](https://www.qubits42.com/test/3817/1914272) **(Unofficial)**
+- [Qubits42 Test, Learn: AWS Certified Cloud Practitioner](https://www.qubits42.com/test/3817/1914272) **(Unofficial)**
 
     > Beberapa contoh soal untuk mempersiapkan ujian Cloud Practitioner.
 
 - [AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12483/aws-certified-cloud-practitioner-practice-question-set-clf-c01-english)
 
     > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Associate nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
-
-- [How to Get Official AWS Practice Exams for Free](https://www.youtube.com/watch?v=fR-sjK2u6D4&ab_channel=SkillFillip)
-
-    > Cara mendapatkan simulasi ujian gratis via PSI Online untuk mengenali format pertanyaan ujian Cloud Practitioner nanti. Untuk mencoba syaratnya *harus lulus minimal satu ujian AWS* apapun.
 
 ## Hands-on Labs
 ### 1. Free Labs
