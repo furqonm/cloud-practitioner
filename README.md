@@ -1,47 +1,29 @@
-# Preparation for AWS Certified Cloud Practitioner (CLF-C01)
-_[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak AWS, meskipun beberapa link dan material bersumber resmi dari AWS._
+# Preparation for AWS Certified Cloud Practitioner (CLF-C02)
+_[DISCLAIMER] The links and materials provided here are for supplementary study purposes. These self-documented study resources do not represent official information from AWS, although some links and materials are from official AWS sources._
 
 ---
 ## Exam Preparation Materials
 ### 1. Course
-- [AWS Certified Cloud Practitioner Certification Course (CLF-C01) - Pass the Exam!](https://www.youtube.com/watch?v=SOTamWNgDKc&ab_channel=freeCodeCamp.org) **(Unofficial)**
+- [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!
+](https://www.youtube.com/watch?v=NhDYbskXRgc)
 
-    > Video material dari Andrew Brown (ExamPro) di freecodecamp. Silahkan dipelajari untuk memperdalam pengenalan beberapa service di AWS berikut fitur-fiturnya yang mungkin diujikan.
+    > Video material from Andrew Brown of ExamPro. Please study this to deepen your understanding of various AWS services and their features that might appear on the exam.
 
 ### 2. Exam Guide
-- [AWS Certified Cloud Practitioner (CLF-C01) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+- [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
 
-    > Membahas 4 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
+    > This guide discusses the 4 domains/sections that will be covered in the exam. You can use it to identify any points you don't understand for further study.
 
 ### 3. Exam Readiness
 - [Exam Prep: AWS Certified Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-foundations)
 - [AWS Certified Cloud Practitioner exam readiness on-demand](https://pages.awscloud.com/GLBL_Traincert_od_Get-Certified-Cloud-Practitioner.html)
-
-    > E-learning untuk latihan persiapan ujian Cloud Practitioner dari AWS. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian.
-
 - [AWS Certified Cloud Practitioner (CLF-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
-- [Qubits42 Test, Learn: AWS Certified Cloud Practitioner](https://www.qubits42.com/test/3817/1914272) **(Unofficial)**
-
-    > Beberapa contoh soal untuk mempersiapkan ujian Cloud Practitioner.
-
 - [AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12483/aws-certified-cloud-practitioner-practice-question-set-clf-c01-english)
 
-    > Simulasi ujian via BenchPrep untuk mengenali format pertanyaan ujian Solutions Architect Associate nanti. Untuk mencoba bisa mendaftar menggunakan akun Amazon kita, bukan akun AWS.
+    > Some sample questions to help you get familiar with the question format for the AWS Solutions Architect Associate exam.
 
 ## Hands-on Labs
-### 1. Free Labs
-- [Amazon Qwiklabs](https://amazon.qwiklabs.com/catalog?price%5B%5D=free)
-
-    > Kumpulan lab AWS yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
-
-### 2. Step-by-Step Tutorials
+### 1. Step-by-Step Tutorials
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com)
-- [AWS Hands-On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=content-type%23how-to)
 
-    > Kumpulan panduan lab yang dikerjakan diakun AWS kita. Harap berhati-hati akan biaya pengeluaran ketika melakukan langkah-langkahnya karena lab ini dikerjakan diakun AWS. Perhatikan langkah terakhir **tear down** atau **clean up** yang menjelaskan apa yang harus diterminate diakun kita.
-
-### 3. Video Demo Lab
-_(Hanya untuk peserta kelas AWS CPE lama, karena materi baru AWS CPE tidak tersedia Lab)_
-- [AWS Cloud Practitioner Essentials](http://bit.ly/cpelabs)
-
-    > Video rekaman pengerjaan lab yang bisa kita tonton buat ngerefresh apa yang pernah kita kerjakan dulu.
+    > A collection of lab guides to be completed in your own AWS account. Please be mindful of potential costs when performing the steps, as these labs run in your personal AWS account. Pay close attention to the final **tear down** or **clean up** steps, which detail the resources you need to terminate in your account.
