@@ -4,10 +4,10 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
 ---
 ## Exam Preparation Materials
 ### 1. Course
-- [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!
-](https://www.youtube.com/watch?v=NhDYbskXRgc)
+- [AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!](https://www.youtube.com/watch?v=NhDYbskXRgc)
+- [Ultimate AWS Certified Cloud Practitioner CLF-C02 2025](https://www.udemy.com/course/aws-certified-cloud-practitioner-new) **Paid**
 
-    > Video material from Andrew Brown of ExamPro. Please study this to deepen your understanding of various AWS services and their features that might appear on the exam.
+    > Video materials to deepen your understanding of various AWS services and their features that might appear on the exam.
 
 ### 2. Exam Guide
 - [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
@@ -15,14 +15,14 @@ _[DISCLAIMER] The links and materials provided here are for supplementary study 
     > This guide discusses the 4 domains/sections that will be covered in the exam. You can use it to identify any points you don't understand for further study.
 
 ### 3. Exam Readiness
-- [Exam Prep: AWS Certified Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9449/exam-prep-aws-certified-cloud-practitioner-foundations)
-- [AWS Certified Cloud Practitioner exam readiness on-demand](https://pages.awscloud.com/GLBL_Traincert_od_Get-Certified-Cloud-Practitioner.html)
+- [Exam Prep Plan: AWS Certified Cloud Practitioner (CLF-C02 - English)](https://skillbuilder.aws/learning-plan/8UUCEZGNX4/exam-prep-plan-aws-certified-cloud-practitioner-clfc02--english/1J2VTQSGU2)
 - [AWS Certified Cloud Practitioner (CLF-C01) Sample Exam Questions](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
-- [AWS Certified Cloud Practitioner Official Practice Question Set (CLF-C01 - English)](https://explore.skillbuilder.aws/learn/course/external/view/elearning/12483/aws-certified-cloud-practitioner-practice-question-set-clf-c01-english)
+- [Amazon AWS Certified Cloud Practitioner CLF-C02 Actual Exam Questions](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner-clf-c02/view/) **Paid**
+- [6 Practice Exams | AWS Certified Cloud Practitioner CLF-C02](https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner) **Paid**
 
-    > Some sample questions to help you get familiar with the question format for the AWS Solutions Architect Associate exam.
+    > Multiple sample questions to help you get familiar with the question format for the exam.
 
-## Hands-on Labs
+## Hands-on Labs (Optional)
 ### 1. Step-by-Step Tutorials
 - [Well-Architected Labs](https://www.wellarchitectedlabs.com)
 
